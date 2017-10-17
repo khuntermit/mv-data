@@ -1,6 +1,6 @@
 {
 	"image": "images/Girls on the Run.jpg",
-	"progress": "0",
-	"units": "miles",
-	"goal": "100"
+	"units": [
+		"miles"
+	]
 }
