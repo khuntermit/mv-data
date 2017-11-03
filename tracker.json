@@ -1,11 +1,11 @@
 {
 	"image": "images/Girls on the Run.jpg",
 	"units": [
-		"miles",
+		"dollars",
 		"km\n"
 	],
 	"progress": "75",
-	"goal": "100",
+	"goal": "200",
 	"mainimage": "images/Girls on the Run.jpg",
 	"slider": 24
 }
