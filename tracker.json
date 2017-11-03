@@ -6,5 +6,6 @@
 	],
 	"progress": "75",
 	"goal": "100",
-	"mainimage": "images/Girls on the Run.jpg"
+	"mainimage": "images/Girls on the Run.jpg",
+	"slider": 24
 }
