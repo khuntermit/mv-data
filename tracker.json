@@ -6,10 +6,17 @@
 	],
 	"progress": [
 		{
-			"amount": "0"
+			"date": "2017-03-15",
+			"name": "Animal Rescue League of Boston",
+			"amount": "500"
+		},
+		{
+			"date": "2017-11-22",
+			"name": "Middleton High School",
+			"amount": "500"
 		}
 	],
-	"goal": "1000",
+	"goal": "1500",
 	"mainimage": "https://cdn.rawgit.com/khuntermit/mv-data/efe81153941b21e05b18f88a04e2d5869e644f17/images/Vest%20a%20Dog.jpg",
 	"slider": 24,
 	"contributions": [
@@ -17,18 +24,6 @@
 			"date": "2016-08-15",
 			"name": "Animal Rescue League of Boston",
 			"amount": "75"
-		}
-	],
-	"contribution": [
-		{
-			"date": "2017-03-15",
-			"name": "Animal Rescue League of Boston",
-			"amount": "300"
-		},
-		{
-			"date": "2017-11-22",
-			"name": "Middleton High School",
-			"amount": "500"
 		}
 	],
 	"title": "\n        Vest-a-Dog\n    ",
